@@ -1,0 +1,31 @@
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #FF0018;
+  color: white;
+  text-align: center;
+  height: 50px;
+}
+
+.xyz {
+  margin-top: 10px;
+   background-image: url(../images/homepage.jpg); 
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.bs-example {
+  margin: 0px;
+
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
